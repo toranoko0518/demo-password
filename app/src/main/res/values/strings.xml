@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Password</string>
+    <string name="text_title">Welcome</string>
+    <string name="text_explain">Please enter your email address and password.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+</resources>
